@@ -150,6 +150,7 @@ def r_crack():
 	print(' [1] Pakistan Cloning ')
 	print(' [2] Bangladesh Cloning ')
 	print(' [3] Afghanistan Cloning ')
+	print(' [4] Nepal Cloning[Soon]')
 	print(' [0] Back To Menu ')
 	linex()
 	crk=input(' [+] Select Option:\33[1;37m ')
